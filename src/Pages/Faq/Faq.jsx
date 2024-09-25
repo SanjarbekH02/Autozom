@@ -3,7 +3,7 @@ import './Faq.css'
 import Vector from '../../assets/img/vector.svg'
 import Aventador from '../../assets/img/aventador.webp'
 import Urus from '../../assets/img/urus.webp'
-import Uruss from '../../assets/img/Uruss2.webp'
+// import Uruss from '../../assets/img/Uruss2.webp'
 import Ferrari from '../../assets/img/ferrari.webp'
 import Huracan from '../../assets/img/huracan.webp'
 import Orangy from '../../assets/img/orangy.webp'
@@ -36,7 +36,7 @@ const Faq = () => {
     const images = [
         { id: 1, src: Aventador },
         { id: 2, src: Urus },
-        { id: 3, src: Uruss },
+        // { id: 3, src: Uruss },
         { id: 4, src: Huracan },
         { id: 5, src: Ferrari },
         { id: 6, src: Orangy },
