@@ -25,7 +25,7 @@ const About = () => {
                     <p className="text-xl text-slate-300">Auto Zoom Car Rental Co LLC is created with one goal – to make every journey unforgettable. We strive to offer you not just a car but the key to new experiences and adventures.</p>
                 </div>
 
-                <div className="pt-4 pb-4">
+                <div className="pt-4 pb-8">
                     <h3 className="text-2xl text-white">Contact Us:</h3>
                     <p className="text-xl text-slate-300">Trust the professionals – trust Auto Zoom Car Rental Co LLC. Get in touch with us today to start your exciting journey through Dubai in our stylish and reliable cars. Allow yourself to savor every moment of your trip.</p>
                 </div>
